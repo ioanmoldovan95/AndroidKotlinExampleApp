@@ -1,4 +1,4 @@
-package com.example.ioanmoldovan.androidkotlinexampleapp
+package com.android.mvp.app
 
 import org.junit.Test
 
